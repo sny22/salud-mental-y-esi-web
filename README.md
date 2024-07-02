@@ -1,2 +1,2 @@
 # ESI y salud mental-web
-Nuestro objetivo es realizar una página web dirigida a público adolescente, dando foco al área de prevención sexual, su falta de información a sus contraindicaciones y concientizar los efectos secundarios relacionados a la salud mental. 
+Nuestro objetivo es realizar una página web dirigida a público adolescente, dando foco al área de prevención sexual, su falta de información a sus contraindicaciones y concientizar los efectos secundarios relacionados a la salud mental. Queremos combatir la desinformación y motivar a los jóvenes a tomar desiciones informadas sobre su salud, por lo que mostraremos recursos útiles sobre qué hacer ante un descuido sexual, cómo reconocer síntomas de ETS, y más.
