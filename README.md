@@ -1,3 +1,2 @@
 # ESI web
-
-Nuestro objetivo es realizar una página web dirigida a público adolescente debido a la falta de información sobre esta, enfocandonos en hacer visible los métodos anticonceptivos en los hombres y sus contraindicaciones.
+Nuestro objetivo es realizar una página web dirigida a público adolescente, dando foco al área de prevención sexual y su falta de información a sus contraindicaciones.
